@@ -1,0 +1,12 @@
+include requirements.txt
+include test.geojson
+include example01.py
+include example01Q.py
+include example02_01.py
+include example02_02.py
+include example03_01.py
+include example03_02.py
+include example03_03.py
+include example04.py
+include example05.py
+include example06.py
